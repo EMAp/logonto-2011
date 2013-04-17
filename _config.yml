@@ -4,4 +4,4 @@ pygments: true
 markdown: rdiscount
 redirects: false
 exclude: ["README.md", "DEPLOY"]
-baseurl: /nlp-2011/
+baseurl: /NLP-2011/
