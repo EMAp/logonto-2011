@@ -11,7 +11,6 @@ subscribe and receive instantly notifications of changes.
 
 <table>
 <th width="12%">Hour</th><th>What</th>
-
 <tr><td>14:00</td><td>
 <b>Introduction to Text Mining</b><br/>
 <a href="http://www.icsi.berkeley.edu/~demelo/">Gerard de Melo</a>, ICSI Berkeley<br/><br/>
